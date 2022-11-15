@@ -172,7 +172,7 @@ a {
     opacity: 1;
 }
 
-/* @media (max-width: 1280px) {
+@media (max-width: 1280px) {
     .app__list {
         grid-template-columns: repeat(4, 1fr);
     }
@@ -205,4 +205,4 @@ a {
     .movie-card__image {
         height: 250px;
     }
-} */
+}
